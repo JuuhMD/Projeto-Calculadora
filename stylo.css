@@ -1,0 +1,91 @@
+body{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  #e5f3fa;
+}
+.delete{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: #90e9ff;
+    color: #000000;
+}
+.delete:hover{
+    box-shadow: inset 5px 5px 10px #4995a8,
+    inset -5px -5px 10px #7ccadd;
+}
+.equal{
+
+    
+    background: #fd85d9;
+    color:#000000;
+
+}
+.equal:hover{
+    box-shadow: inset 5px 5px 10px #f580ef,
+    inset -5px -5px 10px #f776d0;  
+}
+table{
+    background: #e5f3fa;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 80px;
+    box-shadow:8px 8px 10px #bdb9b9f6,
+    -7px -7px 10px #ffffff;
+}
+button{
+    height: 59px;
+    width: 100px;
+    padding: 10px;
+    margin-top: 10px; 
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: 'Bebas Neue',cursive;
+    font-weight: bold;
+    background: #e5f3fa;
+    color: #000000;
+    cursor: pointer;
+    box-shadow: 7px 7px 10px #dad7d7f6 ,
+    -7px -7px 10px #ffffff;
+
+
+}
+button:hover{
+    box-shadow: inset 5px 5px 10px #bdb9b9f6,
+    inset -5px -5px 10px #ffffff;
+}
+input[type="text"]
+{
+    width:  435px;
+    height: 75px;
+    padding: 10px ;
+    padding-bottom: 16px;
+    border: #e5f3fa;
+    font-size: 40px;
+    font-family: 'Bebas Neue',cursive;
+    font-weight: bold;
+    background: #e5f3fa;
+    color: #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 3px;
+    margin-right:3px ;
+    box-shadow: inset 7px 7px 10px #bdb9b9f6,
+    inset -7px -7px 10px #ffffff;
+    border-radius: 10px;
+
+}
+.aling{
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
